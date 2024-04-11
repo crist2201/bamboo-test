@@ -1,7 +1,1 @@
-Test
-Linea 2
-Linea 4
-BAMBOO TEST
-Test 3
-BAMBOO TEST2
-BAMBOO TST 3
+Remove lines
